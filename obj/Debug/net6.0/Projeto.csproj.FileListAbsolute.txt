@@ -1,0 +1,15 @@
+C:\Users\gusta\Desktop\Projeto IT-Academy\Projeto\bin\Debug\net6.0\Projeto.exe
+C:\Users\gusta\Desktop\Projeto IT-Academy\Projeto\bin\Debug\net6.0\Projeto.deps.json
+C:\Users\gusta\Desktop\Projeto IT-Academy\Projeto\bin\Debug\net6.0\Projeto.runtimeconfig.json
+C:\Users\gusta\Desktop\Projeto IT-Academy\Projeto\bin\Debug\net6.0\Projeto.dll
+C:\Users\gusta\Desktop\Projeto IT-Academy\Projeto\bin\Debug\net6.0\Projeto.pdb
+C:\Users\gusta\Desktop\Projeto IT-Academy\Projeto\obj\Debug\net6.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\Projeto IT-Academy\Projeto\obj\Debug\net6.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\Projeto IT-Academy\Projeto\obj\Debug\net6.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\Projeto IT-Academy\Projeto\obj\Debug\net6.0\Projeto.AssemblyInfo.cs
+C:\Users\gusta\Desktop\Projeto IT-Academy\Projeto\obj\Debug\net6.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\Projeto IT-Academy\Projeto\obj\Debug\net6.0\Projeto.dll
+C:\Users\gusta\Desktop\Projeto IT-Academy\Projeto\obj\Debug\net6.0\refint\Projeto.dll
+C:\Users\gusta\Desktop\Projeto IT-Academy\Projeto\obj\Debug\net6.0\Projeto.pdb
+C:\Users\gusta\Desktop\Projeto IT-Academy\Projeto\obj\Debug\net6.0\Projeto.genruntimeconfig.cache
+C:\Users\gusta\Desktop\Projeto IT-Academy\Projeto\obj\Debug\net6.0\ref\Projeto.dll
